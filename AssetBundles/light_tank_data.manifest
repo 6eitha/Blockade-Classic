@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3655221719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14bf88e79c16067532ae23070020aa27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_MULTICAM_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_WOODLAND.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_TIGER_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_DESERT_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_TIGER_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_DESERT_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_DEFAULT_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_WOODLAND_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_TIGER_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_DEFAULT_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_HEXAGON_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_SNOW_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_SNOW.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_WOODLAND_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_DESERT_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_WOODLAND_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_SNOW_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_DESERT.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_HEXAGON_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_HEXAGON_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_SNOW_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_MULTICAM_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_MULTICAM.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_DEFAULT.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_DEFAULT_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_HEXAGON.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_TIGER.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/LT/SKIN_LT_MULTICAM_RED.png
+Dependencies: []

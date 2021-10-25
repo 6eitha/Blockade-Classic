@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1348940589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3f2f33baad6530abb6e84651e9b3bd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_DESERT_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_DEFAULT_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_HEXAGON_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_MULTICAM.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_WOODLAND.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_DEFAULT_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_MULTICAM_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_DESERT.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_DEFAULT_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_TIGER_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_SNOW_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_HEXAGON_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_DESERT_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_DEFAULT.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_WOODLAND_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_HEXAGON_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_TIGER_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_TIGER_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_TIGER.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_SNOW_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_DESERT_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_HEXAGON.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_SNOW.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_MULTICAM_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_WOODLAND_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_WOODLAND_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_MULTICAM_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HT/SKIN_HT_SNOW_RED.png
+Dependencies: []

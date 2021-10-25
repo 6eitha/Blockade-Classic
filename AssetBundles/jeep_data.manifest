@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2626684511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26984ecf31fd8badec5a9d4ed9cbd8a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_HEXAGON.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_BLACK.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_DEFAULT_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_SAND_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_HEXAGON_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_DEFAULT_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_BLACK_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_WHITE_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_SAND.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_WHITE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_DEFAULT.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_SAND_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_HEXAGON_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_DEFAULT_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_WHITE_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_BLACK_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_HEXAGON_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_SAND_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_WHITE_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/JEEP/SKIN_JEEP_BLACK_DESTROYED.png
+Dependencies: []

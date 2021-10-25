@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1204123138
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45c62d0f86981ebcfffec469037467b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4de8b25cbd6d858cd4c6ce40521297b9
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/INBUNDLES/Font/Archangelsk.ttf
+- Assets/INBUNDLES/Font/Ubuntu-B.ttf
+- Assets/INBUNDLES/Font/Xolonium-Regular.otf
+- Assets/INBUNDLES/Font/hoog_mini.ttf
+- Assets/INBUNDLES/Font/E_Menu_Font4.otf
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 679486634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 308e04a24bced7cbfbc5e91ff29a98a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/INBUNDLES/Sounds/Halloween/Sounds/ChickenWalk.wav
+- Assets/INBUNDLES/Sounds/Halloween/Sounds/PenguinWalk.mp3
+- Assets/INBUNDLES/Sounds/Halloween/Sounds/BearWalk.mp3
+- Assets/INBUNDLES/Sounds/Halloween/Sounds/PigWalk.wav
+- Assets/INBUNDLES/Sounds/Halloween/Sounds/BaranWalk.wav
+- Assets/INBUNDLES/Sounds/Halloween/Sounds/CowWalk.mp3
+Dependencies: []

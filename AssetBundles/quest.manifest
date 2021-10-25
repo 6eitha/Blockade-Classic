@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3384011993
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0398986376bc8b23dd614e5f5702421
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/INBUNDLES/9May/QBUTTON.png
+- Assets/INBUNDLES/9May/QMAINSMALL.png
+- Assets/INBUNDLES/9May/QLVL.png
+- Assets/INBUNDLES/9May/QBUTTON_GLOW.png
+- Assets/INBUNDLES/9May/QMAIN.png
+Dependencies: []

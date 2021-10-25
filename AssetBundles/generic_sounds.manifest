@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3994810150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2862fd713162b5c4f2fe261c1bfe243b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/INBUNDLES/Sounds/generic/select.wav
+- Assets/INBUNDLES/Sounds/generic/throw_1.wav
+- Assets/INBUNDLES/Sounds/generic/onbutton.wav
+- Assets/INBUNDLES/Sounds/block/stone.wav
+- Assets/INBUNDLES/Sounds/generic/throw_2.wav
+- Assets/INBUNDLES/Sounds/generic/zombie_ingame.ogg
+- Assets/INBUNDLES/Sounds/generic/tank_enter.wav
+- Assets/INBUNDLES/Sounds/Walks/wood_walk.wav
+- Assets/INBUNDLES/Sounds/generic/snowball_hit.wav
+- Assets/INBUNDLES/Sounds/generic/tracehit.wav
+- Assets/INBUNDLES/Sounds/Walks/walk.wav
+- Assets/INBUNDLES/Sounds/Walks/stone_walk.wav
+- Assets/INBUNDLES/Sounds/Walks/water_walk.wav
+- Assets/INBUNDLES/Sounds/generic/tnt_activate.wav
+- Assets/INBUNDLES/Sounds/Walks/snow_walk.wav
+- Assets/INBUNDLES/Sounds/generic/zoom.wav
+- Assets/INBUNDLES/Sounds/generic/clickbutton.wav
+- Assets/INBUNDLES/Sounds/generic/zombie_infected.ogg
+- Assets/INBUNDLES/Sounds/block/brick.wav
+- Assets/INBUNDLES/Sounds/Walks/zombie_walk.wav
+- Assets/INBUNDLES/Sounds/block/wood.wav
+- Assets/INBUNDLES/Sounds/block/leaf.wav
+- Assets/INBUNDLES/Sounds/generic/tank_zoom.wav
+- Assets/INBUNDLES/Sounds/block/stoneend.wav
+Dependencies: []

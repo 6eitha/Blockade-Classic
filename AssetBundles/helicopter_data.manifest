@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 759459302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2981f7244937e3e3a371d89bae4cabaa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_WHITE_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_SAND_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_HEXAGON.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_WHITE_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_HEXAGON_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_HEXAGON_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_WHITE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_SAND_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_DEFAULT.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_HEXAGON_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_SAND.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_DEFAULT_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_SAND_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_DEFAULT_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_BLACK_RED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_BLACK.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_WHITE_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_BLACK_BLUE.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_BLACK_DESTROYED.png
+- Assets/INBUNDLES/Battlefield/SkinsVehicles/HELICOPTER/SKIN_HELICOPTER_DEFAULT_BLUE.png
+Dependencies: []

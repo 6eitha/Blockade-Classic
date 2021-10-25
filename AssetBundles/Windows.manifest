@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 3533015708
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: flags
+      Dependencies: {}
+    Info_1:
+      Name: ui
+      Dependencies: {}
+    Info_2:
+      Name: player_skins
+      Dependencies: {}
+    Info_3:
+      Name: season1
+      Dependencies: {}
+    Info_4:
+      Name: hud
+      Dependencies: {}
+    Info_5:
+      Name: zoomtextures
+      Dependencies: {}
+    Info_6:
+      Name: sounds
+      Dependencies: {}
+    Info_7:
+      Name: season2
+      Dependencies: {}
+    Info_8:
+      Name: generic_sounds
+      Dependencies: {}
+    Info_9:
+      Name: maintheme
+      Dependencies: {}
+    Info_10:
+      Name: fonts
+      Dependencies: {}
+    Info_11:
+      Name: animals
+      Dependencies: {}
+    Info_12:
+      Name: soundtrack
+      Dependencies: {}
+    Info_13:
+      Name: actions
+      Dependencies: {}
+    Info_14:
+      Name: itemicons
+      Dependencies: {}
+    Info_15:
+      Name: quest
+      Dependencies: {}
+    Info_16:
+      Name: helicopter_data
+      Dependencies: {}
+    Info_17:
+      Name: heavy_tank_data
+      Dependencies: {}
+    Info_18:
+      Name: jeep_data
+      Dependencies: {}
+    Info_19:
+      Name: light_tank_data
+      Dependencies: {}
+    Info_20:
+      Name: medium_tank_data
+      Dependencies: {}

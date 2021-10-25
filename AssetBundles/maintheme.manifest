@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 889491137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a5840970b24bede3e310410f660f40c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/INBUNDLES/Base/MainTheme/Default/layer_front.png
+- Assets/INBUNDLES/Base/MainTheme/Default/layer_back.png
+- Assets/INBUNDLES/Base/MainTheme/Default/layer_player.png
+- Assets/INBUNDLES/Base/MainTheme/layer_load_rus.png
+- Assets/INBUNDLES/Base/MainTheme/27april/layer_player_prazd.png
+- Assets/INBUNDLES/Base/MainTheme/Default/layer_wall.png
+- Assets/INBUNDLES/Base/MainTheme/layer_load_eng.png
+Dependencies: []
